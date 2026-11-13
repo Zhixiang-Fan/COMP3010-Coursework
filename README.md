@@ -1,2 +1,2 @@
 # COMP3010-Coursework
-Evidence portfolio for COMP3010 Coursework 1
+Files for COMP3010 Coursework 1
